@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "dubbo",
+      "type": "com.alibaba.dubo.autoconfigure.DubboProperties",
+      "sourceType": "com.alibaba.dubo.autoconfigure.DubboProperties"
+    }
+  ],
+  "properties": [
+  ]
+}

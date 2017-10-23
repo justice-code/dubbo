@@ -31,5 +31,7 @@
     <modules>
         <module>dubbo-config-api</module>
         <module>dubbo-config-spring</module>
+        <module>dubbo-autoconfig</module>
     </modules>
+
 </project>
